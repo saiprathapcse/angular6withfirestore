@@ -1,0 +1,27 @@
+.button-row button,
+.button-row a {
+  margin-right: 8px;
+}
+.btnLogin{
+    margin-left: 8px;
+}
+
+.error{
+    margin-top:15px;
+    color:red;
+}
+
+.success{
+    color:green
+
+}
+.center{
+    width: 50%;
+    margin: 10px auto;
+  }
+  .main-div{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
